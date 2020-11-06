@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Riddle</string>
+    <string name="next">ЗАГАДАЛ!</string>
+    <string name="min"> МИН ЧИСЛО </string>
+    <string name="max"> МАКС ЧИСЛО </string>
+    <string name="to_name"> ВАШ ДИАПАЗОН... </string>
+
+</resources>
